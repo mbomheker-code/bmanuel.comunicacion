@@ -4,3 +4,10 @@ Manuel Bomheker - Sitio Web.html
 Manuel Bomheker.html
 manuelbomheker.html
 .DS_Store
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
