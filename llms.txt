@@ -16,7 +16,7 @@ Language-specific AI summaries:
 - Portuguese: https://manuelbomheker.com/pt/llms.txt
 - English: https://manuelbomheker.com/en/llms.txt
 
-Manuel Bomheker works with universities, scientific institutions, innovation areas and university incubators that need to organize communication decisions, communicate institutional value more clearly and build trust with strategic audiences.
+Manuel Bomheker works with universities, scientific institutions, innovation areas and university incubators that need to organize communication decisions, communicate institutional value more clearly and maintain key relationships with strategic audiences.
 
 Core topics: university communication, science communication, institutional strategy, communication diagnosis, positioning, academic personal branding, university-business engagement, innovation communication, transfer, funding, pitch and strategic narratives.
 
